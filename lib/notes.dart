@@ -1,0 +1,1 @@
+//core katmanında businnes katmanlarının olacağı yer. network işlemlerinin yönetimi burda olmalı. 
